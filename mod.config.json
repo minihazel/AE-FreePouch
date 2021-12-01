@@ -1,0 +1,10 @@
+{
+	"name": "FreePouch",
+	"author": "hazelify",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"src/script.js": "CacheModLoad"
+	},
+	"required": []
+}
