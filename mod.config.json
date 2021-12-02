@@ -1,7 +1,7 @@
 {
-	"name": "FreePouch",
+	"name": "FreeContainers",
 	"author": "hazelify",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"src": {
 		"src/script.js": "CacheModLoad"
