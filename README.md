@@ -12,9 +12,9 @@ By default, the [Aquamari](https://escapefromtarkov.fandom.com/wiki/Aquamari_wat
 ## Installing the mod
 Download the mod as a zip by pressing `Code` -> `Download ZIP`.
 
-Next, place the `release.zip` somewhere you remember it.
+Next, place the `hazelify-FreeContainers-1.0.1.zip` somewhere you remember it.
 
-Right click `release.zip` -> Hover over `7-Zip` -> Press `Extract Here`
+Right click `hazelify-FreeContainers-1.0.1.zip` -> Hover over `7-Zip` -> Press `Extract Here`
 
 Place `hazelify-FreeContainers-1.0.1` in your `Server\user\mods\` folder.
 
