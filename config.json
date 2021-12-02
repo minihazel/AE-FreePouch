@@ -1,0 +1,12 @@
+{
+	"containers": {
+		"5d235bb686f77443f4331278": {
+			"_id": "5d235bb686f77443f4331278",
+			"_name": "item_container_lopouch",
+			"UpdatedFilter": [
+				"5c0fa877d174af02a012e1cf",
+				"590c5f0d86f77413997acfab"
+			]
+		}
+	}
+}
