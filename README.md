@@ -32,7 +32,6 @@ Specify version **0.12.11.13074** -> **Items Search Engine** -> find ID of the c
 
 # To-do list
 **Coming in future updates**:
-* Rewrite config from json to js
 * Ability to change slot size (height and width) of any in-game container
 
 # Versions
