@@ -33,7 +33,7 @@ Specify version **0.12.11.13074** -> **Items Search Engine** -> find ID of the c
 # To-do list
 **Coming in future updates**:
 * Rewrite config from json to js
-* **Potential**: Ability to change slot size (height and width) of any in-game container
+* Ability to change slot size (height and width) of any in-game container
 
 # Versions
 This acts both as a changelog and as a history. Only the latest version will be available for download. I do not provide support for older versions of my mod.
