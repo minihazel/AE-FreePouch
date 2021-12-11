@@ -1,4 +1,4 @@
-# hazelify-FreeContainers-1.0.1
+# hazelify-FreeContainers-1.0.2
 Developed by hazelify as part of the JET / AE project. Designed to help fellow singleplayer gamers expand and customize containers in the game.
 
 # Info
@@ -12,18 +12,18 @@ By default, the [Aquamari](https://escapefromtarkov.fandom.com/wiki/Aquamari_wat
 ## Installing the mod
 Download the mod as a zip by pressing `Code` -> `Download ZIP`.
 
-Next, place the `hazelify-FreeContainers-1.0.1.zip` somewhere you remember it.
+Next, place the `hazelify-FreeContainers-1.0.2.zip` somewhere you remember it.
 
-Right click `hazelify-FreeContainers-1.0.1.zip` -> Hover over `7-Zip` -> Press `Extract Here`
+Right click `hazelify-FreeContainers-1.0.2.zip` -> Hover over `7-Zip` -> Press `Extract Here`
 
-Place `hazelify-FreeContainers-1.0.1` in your `Server\user\mods\` folder.
+Place `hazelify-FreeContainers-1.0.2` in your `Server\user\mods\` folder.
 
 Delete the `cache` folder -> `Server\user\cache`.
 
 Restart your server if it isn't closed.
 
 ## Customizing/using the mod
-Inside `hazelify-FreeContainers-1.0.1` there is a file called `guide.txt`. Open it with an editor of your choice and follow the instructions.
+Inside `hazelify-FreeContainers-1.0.2` there is a file called `guide.txt`. Open it with an editor of your choice and follow the instructions.
 
 When customizing items, refer to [the Panopticon](https://eft.justemutarkov.eu/).
 
@@ -32,7 +32,7 @@ Specify version **0.12.11.13074** -> **Items Search Engine** -> find ID of the c
 
 # To-do list
 **Coming in future updates**:
-* Ability to change slot size (height and width) of any in-game container
+* Nothing planned, feel free to leave ideas!
 
 # Versions
 This acts both as a changelog and as a history. Only the latest version will be available for download. I do not provide support for older versions of my mod.
@@ -45,6 +45,10 @@ This acts both as a changelog and as a history. Only the latest version will be 
 * Cleaned up and optimized the fetching process
 * Rewrote the script and made it more readable for the average user
 * Made filter its own config file next to mod.config.json
+
+## 1.0.2
+* Added the ability to change Vertical pocket size + a toggle to enable or disable it
+* Added the ability to change horizontal and vertical size per individual container + a toggle to enable or disable it
 
 # Credits
 * AE Discord: [Kovacs Altered Escape](https://discord.gg/WY7hEQjSN3)
