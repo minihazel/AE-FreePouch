@@ -1,4 +1,9 @@
 {
+	"TogglePockets": true,
+	"PocketOne": 2,
+	"PocketTwo": 2,
+	"PocketThree": 1,
+	"PocketFour": 1,
 	"containers": {
 		"5d235bb686f77443f4331278": {
 			"_id": "5d235bb686f77443f4331278",
@@ -6,7 +11,10 @@
 			"UpdatedFilter": [
 				"5c0fa877d174af02a012e1cf",
 				"590c5f0d86f77413997acfab"
-			]
+			],
+			"EnableCustomCells": true,
+			"HorizontalSlotCount":5,
+			"VerticalSlotCount":5
 		}
 	}
 }
