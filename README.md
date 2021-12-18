@@ -2,7 +2,9 @@
 Developed by hazelify as part of the JET / AE project. Designed to help fellow singleplayer gamers expand and customize containers in the game.
 
 # Info
-FreeContainers is a 12.11 exclusive mod that allows any items to be stored in any containers in-game.
+FreeContainers is an AE exclusive mod that allows any items to be stored in any containers in-game.
+
+This version is 12.11 exclusive which is likely to never be released. Refer to [my 12.9 version](https://github.com/minihazel/12.9-FreeContainers) for a 12.9 compatible version!
 
 By default, the [Aquamari](https://escapefromtarkov.fandom.com/wiki/Aquamari_water_bottle_with_filter) and [USEC MRE](https://escapefromtarkov.fandom.com/wiki/MRE_ration_pack) are filtered for the [S I C C pouch](https://escapefromtarkov.fandom.com/wiki/S_I_C_C_Organizational_pouch) to show users how to filter items by themselves.
 
