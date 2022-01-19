@@ -1,0 +1,21 @@
+{
+    "EnablePockets": true,
+    "pockets": {
+        "One": {
+            "VerticalSize": 2,
+            "HorizontalSize": 1
+        },
+        "Two": {
+            "VerticalSize": 2,
+            "HorizontalSize": 1
+        },
+        "Three": {
+            "VerticalSize": 1,
+            "HorizontalSize": 1
+        },
+        "Four": {
+            "VerticalSize": 1,
+            "HorizontalSize": 1
+        }
+    }
+}
