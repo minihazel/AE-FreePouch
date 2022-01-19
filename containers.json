@@ -12,33 +12,5 @@
         "EnableCustomCells": true,
         "HorizontalSlotCount":8,
         "VerticalSlotCount":10
-    },
-    "60b0f6c058e0b0481a09ad11": {
-        "_id": "60b0f6c058e0b0481a09ad11",
-        "_name": "item_barter_walletwz",
-        "UpdatedFilter": [
-            "5c0fa877d174af02a012e1cf",
-            "590c5f0d86f77413997acfab",
-            "590c60fc86f77412b13fddcf"
-        ],
-        "EnableCustomCells": false,
-        "HorizontalSlotCount":5,
-        "VerticalSlotCount":5
-    },
-    "5857a8bc2459772bad15db29": {
-        "_id": "5857a8bc2459772bad15db29",
-        "_name": "Gamma container",
-        "UpdatedFilter": [],
-        "EnableCustomCells": true,
-        "HorizontalSlotCount":4,
-        "VerticalSlotCount":4
-    },
-    "545cdae64bdc2d39198b4568": {
-        "_id": "545cdae64bdc2d39198b4568",
-        "_name": "TriZipps",
-        "UpdatedFilter": [],
-        "EnableCustomCells": false,
-        "HorizontalSlotCount":6,
-        "VerticalSlotCount":9
     }
 }
